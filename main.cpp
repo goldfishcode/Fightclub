@@ -13,7 +13,7 @@
 #include <algorithm>
 #include <set>
 
-using namespace std;
+
 
 Game::Game() {
     decision_tree1 = new DecisionTree1();
