@@ -1,4 +1,4 @@
-# Fightclub_OOPLabor
+# Fightclub
 Fightclub - Textbasiertes Beat-em-Up Spiel mit der Verwendung von Polymorphismus in C++. 
 
 
